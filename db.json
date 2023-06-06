@@ -1,9 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "users": [
+    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "tracker": [
+   
   ],
-  "profile": { "name": "typicode" }
+  "history": [
+
+  ]
 }
